@@ -1,0 +1,11 @@
+Template for Event JSON object:
+
+{"title":"", "day":"", "date":"", "startTime":"", "endTime":"", "location":"", "description":"", "link":""}
+
+Simply copy and paste the above line inside the "events" array within the JSON file (be careful of comma placement outside curly brackets), and fill in each field. The link field can be left blank.
+
+*Note: the date entered must be of the format MM/DD/YYYY, or else the JSON parser in the app will run into some issues.
+
+Example entry: {"title":"Speaker", "day":"Wednesday", "date":"07/05/2017", "startTime":"6:00pm", "endTime":"7:30pm", "location":"Commons", "description":"Some guy will be coming to talk about an interesting topic", "link":""}
+
+Always a good idea to validate JSON before saving file: http://www.kaleidosblog.com/online-json-validator-and-reader-free-online-tool#service
