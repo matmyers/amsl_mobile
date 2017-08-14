@@ -1,5 +1,9 @@
 {"events":[
     {"title":"Speaker", "day":"Wednesday", "date":"07/26/2017", "startTime":"6:00pm", "endTime":"7:30pm", "location":"Commons", "description":"Some guy will be coming to talk about interesting stuff", "link":"https://www.google.com/search?q=speaker&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD7ey3i6fVAhXCK1AKHbm3AZIQ_AUICygC&biw=1920&bih=974"},
     {"title":"Luncheon", "day":"Friday", "date":"07/28/2017", "startTime":"12:00pm", "endTime":"1:00pm", "location":"Cafeteria", "description":"Free food for all!", "link":""},
-    {"title":"1L Orientation", "day":"Tuesday", "date":"08/01/2017", "startTime":"9:00am", "endTime":"12:00pm", "location":"Admin Building", "description":"Orientation for first years. Students should bring ID, class schedule, and laptop.", "link":"https://en.wikipedia.org/wiki/Student_orientation"}
+    {"title":"1L Orientation", "day":"Tuesday", "date":"08/01/2017", "startTime":"9:00am", "endTime":"12:00pm", "location":"Admin Building", "description":"Orientation for first years. Students should bring ID, class schedule, and laptop.", "link":"https://en.wikipedia.org/wiki/Student_orientation"},
+    {"title":"First Day of Classes", "day":"Monday", "date":"08/14/2017", "startTime":"9:00am", "endTime":"3:00pm", "location":"Classrooms", "description":"Classes start today!", "link":""},
+    {"title":"Free Lunch", "day":"Thursday", "date":"08/17/2017", "startTime":"12:00pm", "endTime":"2:00pm", "location":"Admin Building", "description":"Free lunch provided by donors", "link":""},
+    {"title":"Red Wedding", "day":"Sunday", "date":"08/20/2017", "startTime":"2:00pm", "endTime":"5:00pm", "location":"Chapel", "description":";) ;) ;)", "link":""},
+	{"title":"Midterm", "day":"Wednesday", "date":"08/23/2017", "startTime":"9:00am", "endTime":"12:00pm", "location":"Classrooms", "description":"First midterm exam", "link":""}
 ]}
