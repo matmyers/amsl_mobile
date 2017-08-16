@@ -1,0 +1,22 @@
+{"persons":[
+	{"name":"Mark Adamczyk", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"madamczyk@avemarialaw.edu"},
+	{"name":"Ann Howard Banzet", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"ahbanzet@avemarialaw.edu"},
+	{"name":"Christopher P. Bray", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"CPBray@avemarialaw.edu"},
+	{"name":"Brian Bulger", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"bbulger@avemarialaw.edu"},
+	{"name":"Bradley W. Butcher", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"bwbutcher@avemarialaw.edu"},
+	{"name":"Kevin Carmichael", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"KCarmichael@avemarialaw.edu"},
+	{"name":"Stephany Sturges Carr", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"SCarr@avemarialaw.edu"},
+	{"name":"Charles C. Cohen", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"CCohen@avemarialaw.edu"},
+	{"name":"Andrew Dickman", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"adickman@avemarialaw.edu"},
+	{"name":"Casey Dudek", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"cdudek@avemarialaw.edu"},
+	{"name":"Robert M. Garrity", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"RMGarrity@avemarialaw.edu"},
+	{"name":"Jonathan E. Gopman", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"JEGopman@avemarialaw.edu"},
+	{"name":"Charles W. Grimes", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"CGrimes@avemarialaw.edu"},
+	{"name":"Jennifer Kimball", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"jkimball@avemarialaw.edu"},
+	{"name":"Ita M. Neymotin", "job":"Adjunct Professor", "phoneNumber":"2396875361", "emailAddress":"imneymotin@avemarialaw.edu"},
+	{"name":"Stephen Sorett", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"ssorett@avemarialaw.edu"},
+	{"name":"Jay Steele", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"JSteele@avemarialaw.edu"},
+	{"name":"Steven W. Teppler", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"steppler@avemarialaw.edu"},
+	{"name":"Henry F. White, Jr.", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"hwhite@avemarialaw.edu"},
+	{"name":"Ashley Withers", "job":"Adjunct Professor", "phoneNumber":"", "emailAddress":"AWithers@avemarialaw.edu"}
+]}
