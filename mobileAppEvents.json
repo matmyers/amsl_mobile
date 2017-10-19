@@ -2,9 +2,9 @@
     {"title":"First Day of Classes", "day":"Monday", "date":"08/14/2017", "startTime":"9:00am", "endTime":"3:00pm", "location":"Classrooms", "description":"Classes start today!", "link":""},
     {"title":"Free Lunch", "day":"Thursday", "date":"08/17/2017", "startTime":"12:00pm", "endTime":"2:00pm", "location":"Admin Building", "description":"Free lunch provided by donors", "link":""},
     {"title":"Wedding", "day":"Sunday", "date":"08/20/2017", "startTime":"2:00pm", "endTime":"5:00pm", "location":"Chapel", "description":"Wedding between friends", "link":""},
-    {"title":"Speaker", "day":"Sunday", "date":"08/23/2017", "startTime":"6:00pm", "endTime":"7:30pm", "location":"Commons", "description":"Some guy will be coming to talk about interesting stuff", "link":"https://www.google.com/search?q=speaker&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD7ey3i6fVAhXCK1AKHbm3AZIQ_AUICygC&biw=1920&bih=974"},
-    {"title":"Luncheon", "day":"Monday", "date":"08/28/2017", "startTime":"12:00pm", "endTime":"1:00pm", "location":"Cafeteria", "description":"Free food for all!", "link":""},
-    {"title":"Mass", "day":"Thursday", "date":"08/31/2017", "startTime":"11:00am", "endTime":"12:00pm", "location":"Commons", "description":"First mass of the semester", "link":""},
-    {"title":"1L Orientation", "day":"Friday", "date":"09/01/2017", "startTime":"9:00am", "endTime":"12:00pm", "location":"Admin Building", "description":"Orientation for first years. Students should bring ID, class schedule, and laptop.", "link":"https://en.wikipedia.org/wiki/Student_orientation"},
-	{"title":"Midterm", "day":"Tuesday", "date":"09/05/2017", "startTime":"9:00am", "endTime":"12:00pm", "location":"Classrooms", "description":"First midterm exam", "link":""}
+    {"title":"Speaker", "day":"Sunday", "date":"10/22/2017", "startTime":"6:00pm", "endTime":"7:30pm", "location":"Commons", "description":"Some guy will be coming to talk about interesting stuff", "link":"https://www.google.com/search?q=speaker&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD7ey3i6fVAhXCK1AKHbm3AZIQ_AUICygC&biw=1920&bih=974"},
+    {"title":"Luncheon", "day":"Monday", "date":"10/24/2017", "startTime":"12:00pm", "endTime":"1:00pm", "location":"Cafeteria", "description":"Free food for all!", "link":""},
+    {"title":"Mass", "day":"Thursday", "date":"10/31/2017", "startTime":"11:00am", "endTime":"12:00pm", "location":"Commons", "description":"First mass of the semester", "link":""},
+    {"title":"1L Orientation", "day":"Friday", "date":"11/01/2017", "startTime":"9:00am", "endTime":"12:00pm", "location":"Admin Building", "description":"Orientation for first years. Students should bring ID, class schedule, and laptop.", "link":"https://en.wikipedia.org/wiki/Student_orientation"},
+	{"title":"Midterm", "day":"Tuesday", "date":"11/05/2017", "startTime":"9:00am", "endTime":"12:00pm", "location":"Classrooms", "description":"First midterm exam", "link":""}
 ]}
